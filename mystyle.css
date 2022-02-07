@@ -1,0 +1,86 @@
+body{
+margin:0px;
+padding:0px;
+}
+
+
+.neonText {
+ 
+  text-shadow:0 0 2px red , 0 0 2px blue;
+margin:0px;
+padding:0px;
+ 
+   
+}
+.neonText1 {
+ 
+  text-shadow:0 0 15px blue;
+margin:0px;
+padding:0px;
+ 
+   
+}
+div.head1 {
+background-color:rgb(102 , 10 , 109);
+height:40px;
+width:100%;
+margin:0px;
+padding:0px;
+
+
+
+
+
+}
+a{
+font-size:25px;
+ color:black;
+border:2px  solid blue;
+border-radius:2px;
+margin-right:12px;
+padding:2.5px;
+
+}
+div.head2{
+ width: 71px;
+    height: 33px;
+    display: inline;
+    margin-left: 873px;
+
+
+}
+div.mainbody{
+background-image:url("valentine.jpg");
+background-size:cover;
+height:625px;
+width:100%;
+
+}
+
+div.form1{
+height:116px;
+width:312px;
+
+display:inline-table;
+margin-top:51px;
+margin-left:495px;
+
+}
+form{
+margin-top:15px;
+margin-left:25px;}
+
+div.resultdiv{
+height:100px;
+width:300px;
+font-size:23px;
+color:green;
+text-align:center;
+background-color:black;
+display:inline-table;
+opacity:0.5;
+border-radius:5px;
+margin-left:495px;
+font-weight:900;
+color:white;
+}

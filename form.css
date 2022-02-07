@@ -1,0 +1,15 @@
+form.mainform {
+height:427px;
+width:450px;
+background-color:black;
+opacity:0.5;
+margin-left:416px;
+margin-top:90px;
+border-radius:5px;
+
+}
+button{
+height:40px;
+width:70px;
+
+}
